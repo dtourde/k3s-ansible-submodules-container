@@ -1,3 +1,6 @@
 [submodule "k3s-ansible"]
 	path = k3s-ansible
 	url = https://github.com/rancher/k3s-ansible.git
+[submodule "k3s-ansible-inventories"]
+	path = k3s-ansible-inventories
+	url = git@github.com:dtourde/k3s-ansible-inventories.git
